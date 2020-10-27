@@ -12,7 +12,7 @@ def add_element_to_end_of_array(cats, "bengal")
   cats.push("bengal")
 end
 
-def add_element_to_start_of_array(cats, element)
+def add_element_to_start_of_array(cats, "bengal")
   cats.unshift = "bengal"
 end
 
