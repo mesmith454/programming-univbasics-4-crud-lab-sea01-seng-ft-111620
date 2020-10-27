@@ -9,6 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   cats = ["snowshoe","tuxedo","persian","tabby"]
   cats << "bengal"
+  puts cats
 end
 
 def add_element_to_start_of_array(array, element)
