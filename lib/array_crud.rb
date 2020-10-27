@@ -8,13 +8,11 @@ def create_an_array
   meat = ["turkey","ham","chicken","beef"]
 end
 
-def add_element_to_end_of_array(cats, element)
-  cats = ["snowshoe","tuxedo","persian","tabby"]
+def add_element_to_end_of_array(cats, "bengal")
   cats.push("bengal")
 end
 
-def add_element_to_start_of_array(array, element)
-  cats = ["snowshoe","tuxedo","persian","tabby"]
+def add_element_to_start_of_array(cats, element)
   cats.unshift = "bengal"
 end
 
